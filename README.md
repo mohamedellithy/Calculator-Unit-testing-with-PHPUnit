@@ -45,6 +45,7 @@ and put inside it this code
 ```` 
 
 ### then
+write this command
 ````bash
 .\vendor\bin\phpunit
 ````
