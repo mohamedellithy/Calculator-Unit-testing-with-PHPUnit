@@ -43,7 +43,13 @@ and put inside it this code
     </testsuites>
 </phpunit>
 ```` 
-    
+
+### then
+````bash
+.\vendor\bin\phpunit
+````
+
+
 ## License
 go to this documentation 
 [Documentation PHPUnitTest](https://phpunit.readthedocs.io/)
