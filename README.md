@@ -6,7 +6,7 @@ The example introduces the basic conventions and steps for writing tests with PH
 write this command to get version of framework PHPUnit test
 ````bash
 composer require --dev phpunit/phpunit ^9.5
-```
+````
 
 
 ### then
