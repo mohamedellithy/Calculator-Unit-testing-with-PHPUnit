@@ -4,6 +4,7 @@ hows how we can write tests using PHPUnit that exercise PHP’s array operations
 The example introduces the basic conventions and steps for writing tests with PHPUnit:
 ## install
 write this command to get version of framework PHPUnit test
+````php
 composer require --dev phpunit/phpunit ^9.5
 ### then
 create Folder with name App or anything other
@@ -13,6 +14,8 @@ create Folder with name App or anything other
             "App\\": "app"
         }
     }
+    
+    
 ## License
 go to this documentation 
 [Documentation PHPUnitTest](https://phpunit.readthedocs.io/)
